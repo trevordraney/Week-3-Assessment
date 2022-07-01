@@ -17,3 +17,4 @@ function myFaveRitual() {
 colorBtn.addEventListener('click', myFaveColor)
 ritualBtn.addEventListener('click', myFaveRitual)
 placeBtn.addEventListener('click', myFavePlace)
+
